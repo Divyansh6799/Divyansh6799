@@ -20,3 +20,5 @@ Connect With Me-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/divyansh-trivedi-1551581bb/)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='25'>](https://leetcode.com/D_Trivedi0607/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/https://twitter.com/Divyansh0607)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/https://www.instagram.com/divyansh__1997//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh6799)](https://github.com/anuraghazra/github-readme-stats)  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyansh6799&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Divyansh6799" /></p>
