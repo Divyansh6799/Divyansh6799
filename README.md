@@ -3,7 +3,6 @@
 ![I am Software Developer and Data Scientist Enthusiastic](https://github.com/Divyansh6799/Divyansh6799/blob/main/banner.png)
 
 I really like to work on software Development. I really enjoy learning languages and new technologies and frameworks.I also enjoying the working with Machine Learning and Artificial Intelligence technologies.
-
 Skills: Python / SQL / JS / Angular / Machine Learning / Linux
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Divyansh6799)  
