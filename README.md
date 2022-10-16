@@ -6,8 +6,7 @@ I really like to work on software Development. I really enjoy learning languages
 
 Skills: Python / SQL / JS / Angular / Machine Learning / Linux
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning Blockchain Development 
 - 💬 Ask me about Software Development , Machine Learning 
 - 📫 How to reach me: divyanshtrivedi.dt@gmail.com 
