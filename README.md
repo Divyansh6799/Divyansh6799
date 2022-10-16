@@ -12,12 +12,8 @@ Skills: Python / SQL / JS / Angular / Machine Learning / Linux
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyansh6799)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Divyansh6799)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/D_Trivedi0607/)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Divyansh6799)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh6799)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Divyansh6799)  
 
 ![Profile views](https://gpvc.arturio.dev/Divyansh6799)  
