@@ -10,4 +10,4 @@ Skills: Python / SQL / JS / Angular / Machine Learning / Linux
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyansh6799)](https://github.com/anuraghazra/github-readme-stats)
 
- You can check out my linkdin profile at[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/Divyansh Trivedi/](https://www.linkedin.com/in/divyansh-trivedi-1551581bb/))  
+ You can check out my linkdin profile at -- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>]([https://www.linkedin.com/in/Divyansh Trivedi/](https://www.linkedin.com/in/divyansh-trivedi-1551581bb/))  
