@@ -6,7 +6,9 @@ I really like to work on software Development. I really enjoy learning languages
 
 Skills: Python / SQL / JS / Angular / Machine Learning / Linux
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Divyansh6799)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyansh6799)](https://github.com/anuraghazra/github-readme-stats)     
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Divyansh6799&show_icons=true&locale=en&theme=tokyonight" alt="Divyansh6799" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh6799&&theme=tokyonight" alt="Divyansh6799" /></p>
+
 
 ![Profile views](https://gpvc.arturio.dev/Divyansh6799)
 
@@ -17,8 +19,6 @@ Skills: Python / SQL / JS / Angular / Machine Learning / Linux
 - ⚡ Fun fact: I am Funny.... 
  
 Connect With Me- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/divyansh-trivedi-1551581bb/)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='25'>](https://leetcode.com/D_Trivedi0607/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/https://twitter.com/Divyansh0607)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/https://www.instagram.com/divyansh__1997//)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh6799)](https://github.com/anuraghazra/github-readme-stats)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/divyansh-trivedi-1551581bb/)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='25'>](https://leetcode.com/D_Trivedi0607/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/https://twitter.com/Divyansh0607)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/https://www.instagram.com/divyansh__1997//)   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyansh6799&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Divyansh6799" /></p>
