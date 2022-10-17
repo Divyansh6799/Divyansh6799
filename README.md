@@ -18,6 +18,6 @@ Connect With Me-
 EXAMPLE OF WORK-
 
 ![Mask Detection System](https://github.com/Divyansh6799/Mask-detection-system/blob/master/demo/mask_detection_demo_.gif)<p>Mask Detection System</p>
-<img align="center" alt="Coding" width="40" src="https://github.com/Divyansh6799/Rock_paper_Scissors-using-OpenCv/blob/master/demo.gif">
+<img align="center" alt="Coding" height="40" width="400" src="https://github.com/Divyansh6799/Rock_paper_Scissors-using-OpenCv/blob/master/demo.gif"><p>Rock paper Scissors</p>
                                                  
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyansh6799&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Divyansh6799" /></p><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh6799&&theme=tokyonight" alt="Divyansh6799" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Divyansh6799&show_icons=true&locale=en&theme=tokyonight" alt="Divyansh6799" /></p> -->
