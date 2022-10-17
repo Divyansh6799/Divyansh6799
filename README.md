@@ -19,6 +19,6 @@ EXAMPLE OF WORK-
 
 ![Mask Detection System](https://github.com/Divyansh6799/Mask-detection-system/blob/master/demo/mask_detection_demo_.gif)<p>Mask Detection System</p>
 
-![Rock Paper Scissors][<img width='25'></img>](https://github.com/Divyansh6799/Rock_paper_Scissors-using-OpenCv/blob/master/demo.gif)<p>Rock_paper_Scissors</p>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://github.com/Divyansh6799/Rock_paper_Scissors-using-OpenCv/blob/master/demo.gif)">
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyansh6799&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Divyansh6799" /></p><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh6799&&theme=tokyonight" alt="Divyansh6799" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Divyansh6799&show_icons=true&locale=en&theme=tokyonight" alt="Divyansh6799" /></p> -->
