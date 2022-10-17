@@ -17,5 +17,4 @@ Connect With Me-
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyansh6799&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Divyansh6799" /></p><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh6799&&theme=tokyonight" alt="Divyansh6799" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Divyansh6799&show_icons=true&locale=en&theme=tokyonight" alt="Divyansh6799" /></p> -->
 
-Example Of Work-
 ![Mask Detection System](https://github.com/Divyansh6799/Mask-detection-system/blob/master/demo/mask_detection_demo_.gif)
