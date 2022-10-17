@@ -22,4 +22,4 @@ Connect With Me-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Divyansh6799&show_icons=true&locale=en&theme=tokyonight" alt="Divyansh6799" /></p>
 
 Example Of Work-***
-![https://github.com/Divyansh6799/Mask-detection-system/blob/master/demo/mask_detection_demo_.gif]
+![](https://github.com/Divyansh6799/Mask-detection-system/blob/master/demo/mask_detection_demo_.gif)
