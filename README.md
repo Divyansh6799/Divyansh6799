@@ -21,3 +21,5 @@ SOME EXAMPLE OF MY WORK-
 <img align="center" alt="Rock Paper Scissors" height="355" width="235" src="https://github.com/Divyansh6799/Rock_paper_Scissors-using-OpenCv/blob/master/demo.gif">
                                                  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyansh6799&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Divyansh6799" /></p><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh6799&&theme=tokyonight" alt="Divyansh6799" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Divyansh6799&show_icons=true&locale=en&theme=tokyonight" alt="Divyansh6799" /></p>
+
+![](https://forthebadge.com/images/badges/built-with-swag.svg)
