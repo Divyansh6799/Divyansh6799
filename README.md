@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Divyansh Trivedi
 #### I am Software Developer and Data Scientist Enthusiastic
-![I am Software Developer and Data Scientist Enthusiastic](https://github.com/Divyansh6799/Divyansh6799/blob/main/banner.png)
+![I am Software Developer and Data Scientist Enthusiastic](https://github.com/Divyansh6799/Divyansh6799/blob/main/banner2.png)
 
 PortFolio--https://divyanshtrivediportfolio.netlify.app/
 
